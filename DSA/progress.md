@@ -5,7 +5,7 @@ This document tracks the progress of my learning in Data Structures and Algorith
 ## Topics Learned:
 
 ### 1. **Arrays and Strings**
-- [x] Basic Operations (Insertion, Deletion)
+- [ ] Basic Operations (Insertion, Deletion)
 - [ ] Searching (Linear Search, Binary Search)
 - [ ] Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, Heap Sort)
 - [ ] Two-pointer technique
